@@ -1,4 +1,4 @@
 FROM openjdk
 EXPOSE 8080
-ADD target/Calculator.jar Calculator.jar
+ADD /var/lib/jenkins/workspace/CI-PIPE/DevopsProject1/Calculator.jar Calculator.jar
 ENTRYPOINT ["java","-jar","/Calculator.jar"]
