@@ -1,6 +1,6 @@
-🚀 Excited to share that I have successfully completed an end-to-end DevOps project! 🚀
+![2](https://github.com/Gokuldevops27/Project-1/assets/172466676/5a0e745b-8fe4-464b-bab1-86f7e3d9b1f0)
 
-![1](https://github.com/Gokuldevops27/Project-1/assets/172466676/acb585a5-9d5b-453c-9062-5ac90a85f0e7)
+🚀 Excited to share that I have successfully completed an end-to-end DevOps project! 🚀
 
 Here’s a brief overview of the project:
 
@@ -26,3 +26,5 @@ This project was an incredible learning experience, enhancing my skills in Terra
 A huge shoutout to everyone who supported and guided me through this journey! 🙌
 
 Looking forward to leveraging these skills in future projects and contributing to more innovative solutions.
+
+![1](https://github.com/Gokuldevops27/Project-1/assets/172466676/acb585a5-9d5b-453c-9062-5ac90a85f0e7)
