@@ -1,5 +1,7 @@
 🚀 Excited to share that I have successfully completed an end-to-end DevOps project! 🚀
 
+![1](https://github.com/Gokuldevops27/Project-1/assets/172466676/acb585a5-9d5b-453c-9062-5ac90a85f0e7)
+
 Here’s a brief overview of the project:
 
 📌 Project Highlights:
