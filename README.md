@@ -1,1 +1,0 @@
-Automating the entire lifecycle.
