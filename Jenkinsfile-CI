@@ -15,7 +15,7 @@ pipeline {
             steps {
                 dir ("DevopsProject1"){
                   script {
-                    git branch: 'main', url: 'https://github.com/pandacloud1/DevopsProject1.git' 
+                    git branch: 'main', url: 'https://github.com/Gokuldevops27/Project-1.git' 
                   }
                 }
             }
@@ -68,7 +68,7 @@ pipeline {
             } 
         }
 
-        stage('9. Docker Image Push') {
+        stage('8. Docker Image Push') {
             steps{
                 script { 
                   withCredentials([usernamePassword(credentialsId: 'dockerhub_cred', usernameVariable: 'docker_user', passwordVariable: 'docker_pass')]) {
@@ -81,7 +81,7 @@ pipeline {
             }
         }
 
-        stage('10. Docker Image Cleanup') {
+        stage('9. Docker Image Cleanup') {
             steps{
                 script { 
                   sh "docker image prune -af"
